@@ -18,7 +18,16 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
   - Introduction to Machine Learning — Elite Grade (67%) *(Prof. Balaraman Ravindran, IIT Madras)*
   - Deep Learning for Computer Vision *(ongoing, IIT Kanpur)*
 - **Rinex.ai**
-  - Artificial Intelligence *(ongoing)*
+  - Artificial Intelligence (Completed on August 30, 2025, Certificate ID: AI25-RNG0-7244)
+
+---
+## Internship
+
+- **Rinex.ai**
+
+  - Artificial Intelligence Internship (05 Jul 2025 – 30 Aug 2025)
+
+  - Certificate ID: AI25-RNI0-7244
 
 ---
 
