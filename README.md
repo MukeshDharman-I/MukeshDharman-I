@@ -65,5 +65,4 @@ Outside of academics and programming, I enjoy swimming, scuba diving, and advent
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/MukeshDharman-I)
-- [GitHub](https://github.com/MukeshDharman-I)
+- mukeshdharman2006@gmail.com
