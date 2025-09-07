@@ -19,6 +19,7 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
   - Deep Learning for Computer Vision *(ongoing, IIT Kanpur)*
 - **Rinex.ai**
   - Artificial Intelligence (Completed on August 30, 2025, Certificate ID: AI25-RNG0-7244)
+  - Machine Learning (Completed on August 30, 2025, Certificate ID: ML25-RNG0-7173)
 
 ---
 ## Internship
@@ -28,6 +29,10 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
   - Artificial Intelligence Internship (05 Jul 2025 – 30 Aug 2025)
 
   - Certificate ID: AI25-RNI0-7244
+
+  -Machine Learning  Internship (05 Jul 2025 – 30 Aug 2025)
+
+  - Certificate ID: ML25-RN10-7173
 
 ---
 
@@ -53,7 +58,7 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 ## Achievements
 
 - Five-Star Golden Badge in Python (HackerRank)
-- All certifications available on [LinkedIn]( www.linkedin.com/in/MukeshDharman-I )
+- Certifications available on [LinkedIn]( www.linkedin.com/in/MukeshDharman-I )
 
 ---
 
