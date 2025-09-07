@@ -62,6 +62,12 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 
 ---
 
+## Current Status 
+
+ - Submitted an abstract to OTC 2026 and am waiting for the response regarding full research paper submission and journal publication.
+
+___
+
 ## Interests
 
 Outside of academics and programming, I enjoy swimming, scuba diving, and adventure activities.
