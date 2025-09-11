@@ -26,7 +26,7 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 
 - **Rinex.ai**
 
-  - Artificial Intelligence Internship (05 Jul 2025 – 30 Aug 2025)
+  -Artificial Intelligence Internship (05 Jul 2025 – 30 Aug 2025)
 
   - Certificate ID: AI25-RNI0-7244
 
