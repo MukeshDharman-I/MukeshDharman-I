@@ -46,12 +46,13 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 
 ## Projects
 
+- **Weather Humidity Prediction**
+  -Built a Logistic Regression model from scratch in Python/NumPy to predict weather humidity (high/low). Implemented sigmoid, cost, and gradient descent without high-level ML libraries, achieving 92% accuracy.
 - **Used Car Price Prediction**
   - Designed and trained a neural network regression model for used car price prediction, achieving solid performance compared to standard approaches.
 - **Code Archive**
   - Maintained a personal archive of Python and C++ programs and handwritten notes, documenting my learning journey since high school.
 
-*Currently working on a confidential project.*
 
 ---
 
