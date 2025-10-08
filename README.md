@@ -66,7 +66,7 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 ## Current Status 
 
  - Submitted an abstract to OTC 2026 and am waiting for the response regarding full research paper submission and journal publication.
- - Learning maths for machine learning to be stronger 💪 
+ - 2026 😈 
 
 ___
 
