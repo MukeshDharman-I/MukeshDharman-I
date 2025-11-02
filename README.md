@@ -19,7 +19,7 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 (Certificate ID: 27I1SPQH83JP)
 - **NPTEL**
   - Introduction to Machine Learning — Elite Grade (67%) *(Prof. Balaraman Ravindran, IIT Madras)*
-  - Deep Learning for Computer Vision *(ongoing, IIT Kanpur)*
+  - Deep Learning for Computer Vision *(waiting for Result ☂️)*
 - **Rinex.ai**
   - Artificial Intelligence (Completed on August 30, 2025, Certificate ID: AI25-RNG0-7244)
   - Machine Learning (Completed on August 30, 2025, Certificate ID: ML25-RNG0-7173)
