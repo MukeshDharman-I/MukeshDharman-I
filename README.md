@@ -41,7 +41,7 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 
 ## Skills
 
-- **Programming:** Python, C++ , C , Java
+- **Programming:** Python >>> , C++ , C , Java
 - **Libraries:** TensorFlow, Keras, Scikit-learn, NumPy, Pandas ,  matplotlib 
 - **Web Development:** Flask
 
