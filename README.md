@@ -12,8 +12,11 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
   - B.Tech in Artificial Intelligence and Machine Learning *(ongoing)*
 - **Coursera (deeplearning.ai, Prof. Andrew Ng, Stanford University)**
   - Supervised Machine Learning: Regression and Classification
+(Certificate ID: XNJXIFK796I4)
   - Advanced Learning Algorithms
+(Certificate ID: GTJ52TINSSU7)
   - Unsupervised Learning, Recommenders, Reinforcement Learning
+(Certificate ID: 27I1SPQH83JP)
 - **NPTEL**
   - Introduction to Machine Learning — Elite Grade (67%) *(Prof. Balaraman Ravindran, IIT Madras)*
   - Deep Learning for Computer Vision *(ongoing, IIT Kanpur)*
