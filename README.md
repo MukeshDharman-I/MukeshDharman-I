@@ -23,6 +23,7 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 - **Rinex.ai**
   - Artificial Intelligence (Completed on August 30, 2025, Certificate ID: AI25-RNG0-7244)
   - Machine Learning (Completed on August 30, 2025, Certificate ID: ML25-RNG0-7173)
+  *Verification* { Rinex certificate verification} : mukeshdharman2006@gmail.com
 
 ---
 ## Internship
@@ -37,7 +38,9 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 
   - Certificate ID: ML25-RN10-7173
 
----
+  *Verification* { Rinex certificate verification} : mukeshdharman2006@gmail.com
+
+___
 
 ## Skills
 
