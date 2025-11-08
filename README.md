@@ -8,7 +8,7 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 
 ## Education & Certifications
 
-- **Rajalakshmi Engineering College**
+- **Rajalakshmi Engineering College ( Anna University) **
   - B.Tech in Artificial Intelligence and Machine Learning *(ongoing)*
 - **Coursera (deeplearning.ai, Prof. Andrew Ng, Stanford University)**
   - Supervised Machine Learning: Regression and Classification
