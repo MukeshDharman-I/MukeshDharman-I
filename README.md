@@ -64,8 +64,8 @@ ___
 
 ## Achievements
 
-- Five-Star Golden Badge in Python (HackerRank)
 - Certifications available on [LinkedIn]( www.linkedin.com/in/MukeshDharman-I )
+- Projects Available in GitHub!
 
 ---
 
