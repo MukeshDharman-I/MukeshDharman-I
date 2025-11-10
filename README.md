@@ -84,7 +84,7 @@ ___
 
 ## Interests
 
-Outside of academics and programming, I enjoy swimming, scuba diving, and adventure activities.
+Outside of academics and programming, I enjoy swimming, scuba diving, Travelling ,Car Bike Mods and adventure activities.
 
 ---
 
