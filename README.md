@@ -65,7 +65,8 @@ ___
   - Designed and trained a neural network regression model for used car price prediction, achieving solid performance compared to standard approaches.
 - **Code Archive**
   - Maintained a personal archive of Python and C++ programs and handwritten notes, documenting my learning journey since high school.
-
+- **Seoul Bike Demand Prediction — Model Comparison Study**
+  - Compared multiple regression models on a real-world bike demand dataset using R² and MAE. Found XGBoost to perform best, highlighting its strength on structured/tabular data.
 
 ---
 
