@@ -27,7 +27,7 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 ---
 ## Internship
 
-- **Rinex.ai**
+- **Rinex.ai**/ONLINE
 
   -Artificial Intelligence Internship (05 Jul 2025 – 30 Aug 2025)
 
@@ -39,12 +39,20 @@ I am a student pursuing B.Tech in Artificial Intelligence and Machine Learning a
 
   *Verification* { Rinex certificate verification} : mukeshdharman2006@gmail.com
 
+- **Inbox - Info Solutions**/OFFLINE
+
+  - AI-ML Data Analytics Internship (16 Dec 2025 – 30 DEC 2025)
+
+  - Certificate Issued on :17-jan-2026 
+
+  - Registration ID: 49F7A08E/INX266
+
 ___
 
 ## Skills
 
 - **Programming:** Python >>> , C++ , C , Java
-- **Libraries:** TensorFlow, Keras, Scikit-learn, NumPy, Pandas ,  matplotlib 
+- **Libraries:** TensorFlow, Keras, Scikit-learn, NumPy, Pandas , matplotlib 
 - **Web Development:** Flask
 
 ---
